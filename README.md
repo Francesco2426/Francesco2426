@@ -2,7 +2,7 @@
 
 
 
-**Francesco2426** is a software/game developer. When I'm not coding, I usually play games on [https://steamcommunity.com/id/Francesco24/](steam) and upload highlights of those on my [https://www.tiktok.com/@francesco2426_/](tiktok)
+Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I usually play games on [https://steamcommunity.com/id/Francesco24/](steam) and upload highlights of those on my [https://www.tiktok.com/@francesco2426_/](tiktok)
 **Languages**: 
 - C#
 - Python
