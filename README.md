@@ -7,6 +7,11 @@
 # About me
 Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I usually play games on [steam](https://steamcommunity.com/id/Francesco24/) and upload highlights of those on my [tiktok](https://www.tiktok.com/@francesco2426_/)
 
+# Socials
+  <p align="center">
+    <img src="https://badges.steamprofile.com/profile/default/steam/76561198325366718.png" />
+  </p>
+  
 # Languages 
 - C#
 - Python
