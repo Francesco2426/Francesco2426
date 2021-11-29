@@ -24,4 +24,4 @@ Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not codin
 # Engines 
 - Unity
 - Unreal Engine 4
-- Gamemaker 2 (kinda)
+- GameMaker Studio 2 (kinda)
