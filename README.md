@@ -6,7 +6,7 @@ Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not codin
 # Socials
   <h2 align="center">Steam:</h2>
   <p align="center">
-    <img src="https://badges.steamprofile.com/profile/default/steam/76561198325366718.png" />
+    <a href="https://www.steamprofile.com/sig/76561198325366718/"><img src="https://badges.steamprofile.com/profile/default/steam/76561198325366718.png"</a>
   </p>
   <h2 align="center">Discord:</h2>
   <p align="center">
