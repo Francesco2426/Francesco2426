@@ -1,4 +1,4 @@
-# [![Header!](https://user-images.githubusercontent.com/77923481/145695519-f080507a-4d65-45eb-a948-7436b4ff126d.png)
+# [Header!](https://user-images.githubusercontent.com/77923481/145695519-f080507a-4d65-45eb-a948-7436b4ff126d.png)
 )(https://www.youtube.com/channel/UCdxi-aZZeJrkKtwVLjJgGUQ)
 
 # About me
