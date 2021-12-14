@@ -2,7 +2,9 @@
 
 # About me
 Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I'm usually gaming.
-https://komarev.com/ghpvc/?username=Francesco2426
+
+<img src="https://komarev.com/ghpvc/?username=Francesco2426">
+
 # Socials
   <h2 align="center">Discord:</h2>
   <p align="center">
