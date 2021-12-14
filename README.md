@@ -1,5 +1,4 @@
-# ![unknow2n](https://user-images.githubusercontent.com/77923481/146055595-ff6aac97-115b-4407-91df-ff3b120dc3ee.png)
-(https://user-images.githubusercontent.com/77923481/145695562-0a8cd74f-efd0-4976-96b8-a04e82df30eb.png)](https://www.youtube.com/channel/UCdxi-aZZeJrkKtwVLjJgGUQ)
+# [![unknow2n](https://user-images.githubusercontent.com/77923481/146055595-ff6aac97-115b-4407-91df-ff3b120dc3ee.png)](https://www.youtube.com/channel/UCdxi-aZZeJrkKtwVLjJgGUQ)
 
 # About me
 Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I usually gaming.
