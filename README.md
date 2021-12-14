@@ -1,13 +1,9 @@
 # [![image0](https://user-images.githubusercontent.com/77923481/145695562-0a8cd74f-efd0-4976-96b8-a04e82df30eb.png)](https://www.youtube.com/channel/UCdxi-aZZeJrkKtwVLjJgGUQ)
 
 # About me
-Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I usually play games on [steam](https://steamcommunity.com/id/Francesco24/).
+Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not coding, I usually gaming.
 
 # Socials
-  <h2 align="center">Steam:</h2>
-  <p align="center">
-    <a href="https://www.steamprofile.com/sig/76561198325366718/"><img src="https://badges.steamprofile.com/profile/default/steam/76561198325366718.png"</a>
-  </p>
   <h2 align="center">Discord:</h2>
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-1/508769156536205313.png" />
