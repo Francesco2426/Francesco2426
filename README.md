@@ -8,11 +8,6 @@ Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not codin
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-1/508769156536205313.png" />
   </p>
-  <h2 align="center">Twitch:</h2>
-  <p align="center">
-    <img src="http://streambadge.com/twitch/dark/Francesco24.png" />
-  </p>
-  
 # Languages 
 - C#
 - Python
