@@ -11,6 +11,7 @@ Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not codin
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-1/508769156536205313.png" />
   </p>
+  <p>If you're going to message me about Phoenix nuker, don't. I don't dev it</p>
  
 # Languages 
 - C#
