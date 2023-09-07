@@ -16,6 +16,7 @@ Hi, I'm **Francesco2426** and I am a software/game developer. When I'm not codin
 # Languages 
 - C#
 - Python
+- Java
 
 # Engines 
 - Unity
